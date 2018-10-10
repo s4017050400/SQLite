@@ -37,3 +37,5 @@ WHERE id = 1;
 
 SELECT * FROM friends
 
+
+https://www.codecademy.com/courses/learn-sql-manipulation/projects/learn_sql_create_table?action=resume_content_item&course_redirect=learn-sql
